@@ -5,3 +5,5 @@ git tracks changes of files
 
 createing a new branch is quick and simple
 修复一个bug
+now in in dev
+
